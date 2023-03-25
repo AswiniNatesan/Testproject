@@ -1,0 +1,6 @@
+${User};${Pwd};
+standard_user;${Empty};
+standard_user;xyz;
+abdc;secret_sauce;
+${Empty};secret_sauce;
+standard_user;secret_sauce;
